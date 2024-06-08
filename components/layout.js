@@ -1,3 +1,3 @@
-export default function Layout({ children }) {
-    return <div className="container py-10 mx-auto flex gap-40 flex-col font-display font-light px-10">{children}</div>;
+export default function Layout({ children, className }) {
+    return <div className={`container lg:py-32 py-16 mx-auto flex font-display font-extralight px-10 ${className}`}>{children}</div>;
 }
