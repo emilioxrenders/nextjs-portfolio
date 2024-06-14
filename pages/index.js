@@ -21,7 +21,7 @@ export default function Home() {
         <div className='flex flex-col text-white gap-8'>
           <h1 className='text-4xl'>Exploring the Art of Creative Tech</h1>
           <div className='flex flex-col gap-5'>
-            <p>Hey there! I'm Emilio, a passionate Front-end Developer and Creative writer. Welcome to my portfolio, where creativity meets technical expertise. Scroll down to explore my latest projects and see how I bring concepts to life through code and storytelling.</p>
+            <p>Hey there! I'm Emilio, a passionate Front-end Developer & Creative writer. Welcome to my portfolio, where creativity meets technical expertise. Scroll down to explore my latest projects and see how I bring concepts to life through code and storytelling.</p>
           </div>
         </div>
       </Layout>
@@ -32,7 +32,7 @@ export default function Home() {
       <Layout className={'flex-col gap-10'}>
         <div className='flex flex-col text-white gap-8 lg:w-1/2'>
           <h2 className='text-4xl'>Explore my Articles</h2>
-          <p>Dive into my latest blog posts, where I share my perspective on various topics and hopefully provide you with some unique insights. Feel free to connect, share your thoughts, or discuss the world of writing with me at <a href="mailto:emilioxrenders@gmail.com" className='underline'>emilioxrenders@gmail.com</a>.</p>
+          <p>Dive into my latest blog posts, where I share my perspective on various topics and hopefully provide you with some unique insights. Feel free to connect, share your thoughts, or discuss the world of writing with me at <a href="mailto:emilioxrenders@gmail.com" className='relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-white after:h-px after:hover:w-full after:ease-in-out after:bottom-0'>emilioxrenders@gmail.com</a>.</p>
         </div>
 
         <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8'>
@@ -52,7 +52,7 @@ export default function Home() {
       <Layout className={'flex-col gap-10'}>
         <div className='flex flex-col text-white gap-8 lg:w-1/2'>
           <h2 className='text-4xl'>Explore my Development Projects</h2>
-          <p>Discover my latest development projects that showcase my skills in front-end development and creative tech. If you'd like to connect, share your thoughts, or discuss the world of creative tech, feel free to reach out to me at <a href="mailto:emilioxrenders@gmail.com" className='underline'>emilioxrenders@gmail.com</a>.</p>
+          <p>Discover my latest development projects that showcase my skills in front-end development and creative tech. If you'd like to connect, share your thoughts, or discuss the world of creative tech, feel free to reach out to me at <a href="mailto:emilioxrenders@gmail.com" className='relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-white after:h-px after:hover:w-full after:ease-in-out after:bottom-0'>emilioxrenders@gmail.com</a>.</p>
         </div>
 
         <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8'>
