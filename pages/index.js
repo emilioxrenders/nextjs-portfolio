@@ -1,14 +1,11 @@
 import Head from "next/head";
 import Layout from "../components/layout";
-import Header from "../components/header";
 import Image from "next/image";
 import Card from "../components/card";
-import Footer from "../components/footer";
 
 export default function Home() {
   return (
     <>
-      <Header />
       {/* Metadata */}
       <Head>
         <title>Emilioxrenders</title>
@@ -96,8 +93,6 @@ export default function Home() {
           </div>
         </Layout>
       </div>
-
-      <Footer />
     </>
   );
 }

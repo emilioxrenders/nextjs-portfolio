@@ -1,13 +1,11 @@
 import Head from "next/head";
 import Layout from "../../components/layout";
-import Header from "../../components/header";
 import HeaderImage from "../../components/headerImage";
 import Back from "../../components/back";
 
 export default function DungeonsAndDragons() {
   return (
     <>
-      <Header />
       {/* Metadata */}
       <Head>
         <title>
