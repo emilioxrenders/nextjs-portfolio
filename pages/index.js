@@ -26,15 +26,11 @@ export default function Home() {
             className="max-w-sm rounded-sm shadow w-full"
           />
           <div className="flex flex-col text-white gap-10">
-            <h1 className="text-4xl">Welcome to my Creative Writing Hub</h1>
+            <h1 className="text-4xl">Turning Ideas into Stories</h1>
             <div className="flex flex-col gap-5">
               <p>
-                Hi there! I'm Emilio, a passionate Creative Writer specializing
+                Hi there! I'm Emilio, a passionate Creative Writer specialized
                 in crafting engaging content and compelling copy.
-                <br></br>
-                <br></br>
-                This portfolio showcases my skills across various writing
-                projects and offers my unique perspective on different topics.{" "}
                 <br></br>
                 <br></br>
                 Whether you're looking for original articles, persuasive copy,
@@ -58,6 +54,11 @@ export default function Home() {
         <Layout className={"flex-col gap-10"}>
           <div className="flex flex-col gap-10 lg:w-1/2">
             <h2 className="text-3xl">Explore my Work</h2>
+            <p>
+              {" "}
+              Discover various writing projects that showcase my skills and
+              offer a unique perspective on different topics.
+            </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10">
@@ -101,7 +102,7 @@ export default function Home() {
       <div className="flex justify-center items-center bg-white">
         <Layout className={"flex-col gap-10"}>
           <div className="flex flex-col gap-10 lg:w-1/2">
-            <h2 className="text-3xl">Let's collaborate</h2>
+            <h2 className="text-3xl">Let's Collaborate</h2>
             <p>
               Ready to bring your ideas to life? Whether you need captivating
               articles, persuasive copy, or creative content solutions, I'm here
