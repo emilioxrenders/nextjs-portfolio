@@ -55,7 +55,6 @@ export default function Home() {
           <div className="flex flex-col gap-10 lg:w-1/2">
             <h2 className="text-3xl">Explore my Work</h2>
             <p>
-              {" "}
               Discover various writing projects that showcase my skills and
               offer a unique perspective on different topics.
             </p>
@@ -112,8 +111,8 @@ export default function Home() {
                 className="relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-black after:h-px after:hover:w-full after:ease-in-out after:bottom-0"
               >
                 emilioxrenders@gmail.com
-              </a>{" "}
-              and let's start creating something amazing together!
+              </a>
+              !
             </p>
           </div>
         </Layout>
