@@ -29,13 +29,11 @@ export default function Home() {
             <h1 className="text-4xl">Turning Ideas into Stories</h1>
             <div className="flex flex-col gap-5">
               <p>
-                Hi there! I'm Emilio, a passionate Creative Writer specialized
-                in crafting engaging content and compelling copy.
-                <br></br>
-                <br></br>
-                Whether you're looking for original articles, persuasive copy,
-                or creative content solutions, you've come to the right place.
-                Dive into my latest work below, or reach out to me directly at{" "}
+                Hi there! I'm Emilio, a passionate copywriter specialized in
+                articles, blogs, and SEO writing. Whether you need captivating
+                articles, persuasive copy, or creative content solutions, you've
+                come to the right place. Take a look at some of my latest
+                articles below, or reach out to me directly at{" "}
                 <a
                   href="mailto:emilioxrenders@gmail.com"
                   className="relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-white after:h-px after:hover:w-full after:ease-in-out after:bottom-0"
