@@ -11,6 +11,7 @@ module.exports = {
         dark: "#222222",
         medium: "#5b5b5b",
         light: "#F4F4F4",
+        beige: "#f7f4f2",
       },
     },
     fontFamily: {
