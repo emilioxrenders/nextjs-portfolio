@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       {/* section */}
-      <div className="flex justify-center items-center bg-gradient-to-b from-black via-medium via-75% to-light">
+      <div className="flex justify-center items-center bg-white">
         <Layout
           className={
             "gap-10 flex-col-reverse lg:gap-20 lg:items-center lg:flex-row"
@@ -48,7 +48,7 @@ export default function Home() {
       </div>
 
       {/* section */}
-      <div className="flex justify-center items-center bg-light">
+      <div className="flex justify-center items-center bg-beige">
         <Layout className={"flex-col gap-10"}>
           <div className="flex flex-col gap-10 lg:w-1/2">
             <h2 className="text-3xl">Explore my Work</h2>
