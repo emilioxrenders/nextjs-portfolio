@@ -25,7 +25,7 @@ export default function Home() {
             alt="Profile"
             className="max-w-sm rounded-sm shadow w-full"
           />
-          <div className="flex flex-col text-white gap-10">
+          <div className="flex flex-col gap-10">
             <h1 className="text-4xl">Turning Ideas into Stories</h1>
             <div className="flex flex-col gap-5">
               <p>
