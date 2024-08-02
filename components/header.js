@@ -5,7 +5,7 @@ export default function Header() {
     <div className="bg-beige w-full flex justify-center items-center py-4">
       <Link
         href="/"
-        className="text-white w-fit font-light tracking-wider"
+        className="w-fit font-light tracking-wider"
       >
         Emilioxrenders
       </Link>
