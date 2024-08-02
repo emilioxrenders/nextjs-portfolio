@@ -36,7 +36,7 @@ export default function Home() {
                 articles below, or reach out to me directly at{" "}
                 <a
                   href="mailto:emilioxrenders@gmail.com"
-                  className="relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-white after:h-px after:hover:w-full after:ease-in-out after:bottom-0"
+                  className="relative after:w-full after:transition-all after:duration-200 after:left-0 after:absolute after:bg-black after:h-px after:hover:w-0 after:ease-in-out after:bottom-0"
                 >
                   emilioxrenders@gmail.com
                 </a>
@@ -106,7 +106,7 @@ export default function Home() {
               to help. Feel free to connect with me directly at{" "}
               <a
                 href="mailto:emilioxrenders@gmail.com"
-                className="relative after:w-0 after:transition-all after:duration-200 after:left-0 after:absolute after:bg-black after:h-px after:hover:w-full after:ease-in-out after:bottom-0"
+                className="relative after:w-full after:transition-all after:duration-200 after:left-0 after:absolute after:bg-black after:h-px after:hover:w-0 after:ease-in-out after:bottom-0"
               >
                 emilioxrenders@gmail.com
               </a>
